@@ -15,6 +15,19 @@ As a Software Engineer at Accenture Technology Solutions, I managed end-to-end q
 
 My experience as a Teaching Assistant at Johns Hopkins University's Center for Talented Youth allowed me to lead self-sustained classes and deliver engaging lectures on Data Structures and Algorithms. I collaborated on developing Java and JavaScript web application labs, achieving a 100% student attendance rate and enhancing the learning experience.
 
+Academic Highlights:
+
+In addition to my professional work, I have been deeply involved in a range of compelling academic projects. These include:
+
+Leveraging computer vision for visual analysis projects
+Exploring the realms of graphics and image synthesis
+Developing probabilistic robotics algorithms
+Creating both frontend and backend components for web applications
+Contributing to operating system design and implementation
+Applying machine learning techniques to real-world challenges
+🛠️ Technical Expertise:
+I am well-versed in an array of programming languages including Python, C, C++, C#, Java, HTML, CSS, JavaScript, R, Linux, Go, Lisp, Prolog, and assembly. I am skilled in using tools such as Logisim, Visual Studio, Latex, Linux, Glitch, PyCharm, GitHub, RStudio, and MATLAB.
+
 🛠️ Project Highlights:
 
 Web Application: Online Order System - Designed and developed a fullstack web application enabling seamless food ordering using Java Spring Boot, MyBatisPlus, and Vue.js. Applied AJAX for real-time updates and enhanced performance with SpringCache and Sharding-JDBC.
