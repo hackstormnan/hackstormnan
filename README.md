@@ -5,10 +5,20 @@
 - Bachelor of Science in Computer Science from the University of California, Davis (Graduated: June 2021)
   - Honor Roll distinction in Spring Quarter 2020
 
-## Technical Skills
-Proficient in:
-- Programming Languages: Python, C, C++, C#, Java, HTML, CSS, JavaScript, R, Linux, Go, Lisp, Prolog, assembly
-- Tools: Logisim, Visual Studio, Latex, Linux, Glitch, PyCharm, GitHub, RStudio, MATLAB
+### 👨‍💻 Languages and Tools:
+
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/jupyter/jupyter/master/docs/source/_static/_images/jupyter.svg"></code>
+<code><img height="40" width="80" src="https://raw.githubusercontent.com/logo/Tableau/master/images/logo.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></code>
+<br>
 
 ## Work Experience
 ### Software Development Intern, Neusoft Corporation (Jun. 2020 - Sept. 2020)
