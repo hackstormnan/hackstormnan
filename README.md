@@ -45,4 +45,12 @@ Contributed to:
 - Web Application: Community System (Spring Boot, MyBatisPlus, Redis, ThreadLocal, Caffeine)
 - Web Application: Rental Platform (React, antd-mobile, AutoSizer, Axios)
 
-Feel free to connect with me at jiananxu11@gmail.com or +1 7816587813. I look forward to discussing collaboration opportunities and sharing my passion for innovative projects in the field of software engineering! 🚀
+## Connect with me:
+![LinkedIn](www.linkedin.com/in/jianan-xu-b705961b0)[LinkedIn]
+![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)[Gmail](mailto:jiananxu11@gmail.com)
+
+
+## Github Stats:
+![Github Stats](https://github-readme-stats.jha-vineet69.vercel.app/api?username=jha-vineet69&hide=stars&show_icons=true&hide_border=true&theme=buefy)
+
+![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jha-vineet69&hide=smalltalk&theme=buefy&layout=compact&hide_border=true)
