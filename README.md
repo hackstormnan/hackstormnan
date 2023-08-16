@@ -1,41 +1,48 @@
-Hello there! I'm David Xu, an enthusiastic and dedicated software engineer based in Medford, MA. With a strong foundation in computer science and a flair for innovation, I bring a unique blend of technical prowess and creative problem-solving to every project.
+Hello there! I'm David Xu, a dedicated software engineer based in Medford, MA. With a robust foundation in computer science and a knack for innovation, I offer a distinctive blend of technical expertise and creative problem-solving to every endeavor.
 
 🎓 Education:
-Master of Science in Computer Science from Tufts University, expected graduation June 2024
-Bachelor of Science in Computer Science from the University of California, Davis, graduated June 2021 with an Honor Roll distinction in the spring quarter of 2020
 
+Master of Science in Computer Science from Tufts University (Expected Graduation: June 2024)
+Bachelor of Science in Computer Science from the University of California, Davis (Graduated: June 2021)
+Honor Roll distinction in Spring Quarter 2020
 💻 Technical Skills:
-Proficient in a range of programming languages including Python, C, C++, C#, Java, HTML, CSS, JavaScript, R, Linux, Go, Lisp, Prolog, and assembly
-Experienced in utilizing tools such as Logisim, Visual Studio, Latex, Linux, Glitch, PyCharm, GitHub, RStudio, and MATLAB
+Proficient in:
 
+Programming Languages: Python, C, C++, C#, Java, HTML, CSS, JavaScript, R, Linux, Go, Lisp, Prolog, assembly
+Tools: Logisim, Visual Studio, Latex, Linux, Glitch, PyCharm, GitHub, RStudio, MATLAB
 🚀 Work Experience:
-During my role as a Software Development Intern at Neusoft Corporation, I was part of a dynamic team of 40 members, contributing to the design and development of an advanced intelligent navigation system. My work involved implementing cross-platform image format conversion and integrating Nuance Engine for precise human voice recognition. I also designed a versatile 'Voice Core' module, enhancing user interaction through context-aware vocal cues.
+Software Development Intern, Neusoft Corporation (Jun. 2020 - Sept. 2020):
 
-As a Software Engineer at Accenture Technology Solutions, I managed end-to-end quality assurance for an entire project. I successfully integrated Agile methodologies, Jira, and Postman for streamlined communication, conducted client updates, and orchestrated software deployments. I also developed real-time alerting and data analysis visualization for an automated testing platform, significantly improving issue detection and testing efficiency.
+Collaborated on designing and developing an advanced intelligent navigation system
+Implemented cross-platform image format conversion and integrated Nuance Engine for voice recognition
+Designed a versatile 'Voice Core' module for context-aware vocal cues
+Software Engineer, Accenture Technology Solutions (Jul. 2021 - Nov. 2021):
 
-My experience as a Teaching Assistant at Johns Hopkins University's Center for Talented Youth allowed me to lead self-sustained classes and deliver engaging lectures on Data Structures and Algorithms. I collaborated on developing Java and JavaScript web application labs, achieving a 100% student attendance rate and enhancing the learning experience.
+Managed end-to-end quality assurance with Agile methodologies, Jira, and Postman
+Led client updates, daily interactions, and monthly software deployments
+Developed real-time alerting and data analysis visualization for testing platform
+Teaching Assistant, John Hopkins University, Center for Talented Youth (Jul. 2023 - Aug. 2023):
 
-Academic Highlights:
+Led self-sustained classes and delivered autonomous lectures on Data Structures and Algorithms
+Collaborated in developing Java and JavaScript web application labs
+🛠️ Academic Highlights:
+Engaged in:
 
-In addition to my professional work, I have been deeply involved in a range of compelling academic projects. These include:
-
-Leveraging computer vision for visual analysis projects
-Exploring the realms of graphics and image synthesis
-Developing probabilistic robotics algorithms
-Creating both frontend and backend components for web applications
-Contributing to operating system design and implementation
-Applying machine learning techniques to real-world challenges
+Computer vision for visual analysis projects
+Graphics and image synthesis exploration
+Probabilistic robotics algorithm development
+Frontend and backend components for web applications
+Operating system design and implementation
+Machine learning techniques for real-world challenges
 🛠️ Technical Expertise:
-I am well-versed in an array of programming languages including Python, C, C++, C#, Java, HTML, CSS, JavaScript, R, Linux, Go, Lisp, Prolog, and assembly. I am skilled in using tools such as Logisim, Visual Studio, Latex, Linux, Glitch, PyCharm, GitHub, RStudio, and MATLAB.
+Proficient in using:
 
+Programming Languages: Python, C, C++, C#, Java, HTML, CSS, JavaScript, R, Linux, Go, Lisp, Prolog, assembly
+Tools: Logisim, Visual Studio, Latex, Linux, Glitch, PyCharm, GitHub, RStudio, MATLAB
 🛠️ Project Highlights:
+Contributed to:
 
-Web Application: Online Order System - Designed and developed a fullstack web application enabling seamless food ordering using Java Spring Boot, MyBatisPlus, and Vue.js. Applied AJAX for real-time updates and enhanced performance with SpringCache and Sharding-JDBC.
-
-Web Application: Community System - Created a dynamic community platform using Spring Boot and MyBatisPlus, implementing real-time chat, post creation, and authentication. Utilized Redis, ThreadLocal, and Caffeine to optimize user experiences.
-
-Web Application: Rental Platform - Crafted a frontend web app using React and antd-mobile to visualize city maps with rental information. Employed AutoSizer and Axios for improved page loading and user interactions.
-
-Feel free to reach out to me at jiananxu11@gmail.com or +1 7816587813 to discuss collaboration opportunities or connect on LinkedIn.
-
-Looking forward to contributing my skills and passion to innovative projects and making an impact in the world of software engineering! 🚀
+Web Application: Online Order System (Java Spring Boot, MyBatisPlus, Vue.js, AJAX, SpringCache, Sharding-JDBC)
+Web Application: Community System (Spring Boot, MyBatisPlus, Redis, ThreadLocal, Caffeine)
+Web Application: Rental Platform (React, antd-mobile, AutoSizer, Axios)
+Feel free to connect with me at jiananxu11@gmail.com or +1 7816587813. I look forward to discussing collaboration opportunities and sharing my passion for innovative projects in the field of software engineering! 🚀
