@@ -1,4 +1,7 @@
-# Hello there! I'm David Xu, a dedicated software engineer based in Medford, MA. With a robust foundation in computer science and a knack for innovation, I offer a distinctive blend of technical expertise and creative problem-solving to every endeavor.
+# Greetings, I'm David Xu
+
+I'm a software engineer based in Boston, MA. My focus on computer science empowers me to approach projects with a reserved confidence and a passion for discreet ingenuity.
+
 
 ## Education
 - Master of Science in Computer Science from Tufts University (Expected Graduation: June 2024)
