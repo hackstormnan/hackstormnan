@@ -56,8 +56,3 @@ Contributed to:
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/jianan-xu-b705961b0/)
 [Gmail](mailto:jiananxu11@gmail.com)
-
-
-
-## Github Stats:
-![Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hackstormnan&hide=smalltalk&theme=buefy&layout=compact&hide_border=true)
