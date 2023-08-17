@@ -8,7 +8,7 @@ I'm a software engineer based in Boston, MA. My focus on computer science empowe
 - Bachelor of Science in Computer Science from the University of California, Davis (Graduated: June 2021)
   - Honor Roll distinction in Spring Quarter 2020
 
-### 👨‍💻 Languages and Tools:
+## Languages and Tools:
 
 **Programming Languages:**
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python</code>
