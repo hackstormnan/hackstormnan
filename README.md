@@ -59,8 +59,9 @@ Contributed to:
 - Web Application: Rental Platform (React, antd-mobile, AutoSizer, Axios)
 
 ## Connect with me:
-[linkedin]: https://www.linkedin.com/in/jianan-xu-b705961b0/
-[gmail]: jiananxu11@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jianan-xu-b705961b0/)
+[Gmail](mailto:jiananxu11@gmail.com)
+
 
 
 ## Github Stats:
