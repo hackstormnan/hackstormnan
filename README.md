@@ -47,11 +47,6 @@ Engaged in:
 - Operating system design and implementation
 - Machine learning techniques for real-world challenges
 
-## Technical Expertise
-Proficient in using:
-- Programming Languages: Python, C, C++, C#, Java, HTML, CSS, JavaScript, R, Linux, Go, Lisp, Prolog, assembly
-- Tools: Logisim, Visual Studio, Latex, Linux, Glitch, PyCharm, GitHub, RStudio, MATLAB
-
 ## Project Highlights
 Contributed to:
 - Web Application: Online Order System (Java Spring Boot, MyBatisPlus, Vue.js, AJAX, SpringCache, Sharding-JDBC)
