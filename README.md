@@ -31,18 +31,18 @@ I'm a software engineer based in Boston, MA. My focus on computer science empowe
 ## Work Experience
 
 ### Software Development Intern | Neusoft Corporation (Jun. 2020 - Sept. 2020)
-Collaborated within a team of 40 members to design and develop an advanced intelligent navigation system:
+- Collaborated within a team of 40 members to design and develop an advanced intelligent navigation system
 - Implemented cross-platform message format conversion
 - Integrated Nuance Engine for voice recognition
 - Designed a versatile 'Voice Core' module for context-aware vocal cues
 
 ### Software Engineer | Accenture Technology Solutions (Jul. 2021 - Nov. 2021)
-Managed end-to-end quality assurance with Agile methodologies, Jira, and Postman:
+- Managed end-to-end quality assurance with Agile methodologies, Jira, and Postman
 - Led client updates, daily interactions, and monthly software deployments
 - Developed real-time alerting and data analysis visualization for testing platform
 
 ### Teaching Assistant | John Hopkins University, Center for Talented Youth (Jul. 2023 - Aug. 2023)
-Led self-sustained classes and delivered autonomous lectures on Data Structures and Algorithms:
+- Led self-sustained classes and delivered autonomous lectures on Data Structures and Algorithms
 - Collaborated in developing Java and JavaScript web application labs
 
 
