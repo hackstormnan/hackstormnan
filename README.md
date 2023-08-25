@@ -18,6 +18,7 @@ I'm a software engineer based in Boston, MA. My focus on computer science empowe
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML</code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS</code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> JavaScript</code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vb/vb-original.svg"> VB</code>
 
 **Tools:**
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> SpringBoot</code>
