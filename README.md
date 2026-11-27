@@ -4,6 +4,11 @@ Software engineer focused on applied AI and backend systems, with hands-on exper
 
 I build tools around structured AI outputs, evaluation, and human review. My projects connect practical learning problems with backend engineering.
 
+## Project Demos
+
+- [Pedagogy Engine · Watch Demo](https://www.youtube.com/watch?v=1vrQVHXyV3s) — from an IB Computer Science year plan to the next lesson (1:57).
+- [More demos on STEM Sketch (YouTube)](https://www.youtube.com/@stemsketchlab)
+
 ## Featured projects
 
 ### Pedagogy Engine
